@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CRUDOperationApp/1.0.0": {
+        "runtime": {
+          "CRUDOperationApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CRUDOperationApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CRUDOperationApp/1.0.0": {
+        "runtime": {
+          "CRUDOperationApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CRUDOperationApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> faccb85 (adding files)
+}

@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\bin\Debug\net6.0\CRUDOperationApp.exe
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\bin\Debug\net6.0\CRUDOperationApp.deps.json
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\bin\Debug\net6.0\CRUDOperationApp.runtimeconfig.json
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\bin\Debug\net6.0\CRUDOperationApp.dll
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\bin\Debug\net6.0\CRUDOperationApp.pdb
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\obj\Debug\net6.0\CRUDOperationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\obj\Debug\net6.0\CRUDOperationApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\obj\Debug\net6.0\CRUDOperationApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\obj\Debug\net6.0\CRUDOperationApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\obj\Debug\net6.0\CRUDOperationApp.dll
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\obj\Debug\net6.0\refint\CRUDOperationApp.dll
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\obj\Debug\net6.0\CRUDOperationApp.pdb
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\obj\Debug\net6.0\CRUDOperationApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\obj\Debug\net6.0\ref\CRUDOperationApp.dll
+=======
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\bin\Debug\net6.0\CRUDOperationApp.exe
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\bin\Debug\net6.0\CRUDOperationApp.deps.json
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\bin\Debug\net6.0\CRUDOperationApp.runtimeconfig.json
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\bin\Debug\net6.0\CRUDOperationApp.dll
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\bin\Debug\net6.0\CRUDOperationApp.pdb
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\obj\Debug\net6.0\CRUDOperationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\obj\Debug\net6.0\CRUDOperationApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\obj\Debug\net6.0\CRUDOperationApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\obj\Debug\net6.0\CRUDOperationApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\obj\Debug\net6.0\CRUDOperationApp.dll
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\obj\Debug\net6.0\refint\CRUDOperationApp.dll
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\obj\Debug\net6.0\CRUDOperationApp.pdb
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\obj\Debug\net6.0\CRUDOperationApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Centralogic\CRUDOperationApp\CRUDOperationApp\obj\Debug\net6.0\ref\CRUDOperationApp.dll
+>>>>>>> faccb85 (adding files)

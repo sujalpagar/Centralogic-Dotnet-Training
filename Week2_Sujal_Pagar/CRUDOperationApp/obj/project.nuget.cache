@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+{
+  "version": 2,
+  "dgSpecHash": "UbTDagcpb1BiKLfjUrfCpo6WWASqH1mPjbbUh4BaElqjef3DzU5VyveGr7rDLYDhvy8mdfT+Hx3l8H0trbrLsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Centralogic\\CRUDOperationApp\\CRUDOperationApp\\CRUDOperationApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "UbTDagcpb1BiKLfjUrfCpo6WWASqH1mPjbbUh4BaElqjef3DzU5VyveGr7rDLYDhvy8mdfT+Hx3l8H0trbrLsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Centralogic\\CRUDOperationApp\\CRUDOperationApp\\CRUDOperationApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> faccb85 (adding files)
+}

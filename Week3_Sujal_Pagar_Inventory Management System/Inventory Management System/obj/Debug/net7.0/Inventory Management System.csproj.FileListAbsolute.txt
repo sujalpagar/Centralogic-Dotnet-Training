@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Centralogic\Inventory Management System\Inventory Management System\bin\Debug\net7.0\Inventory Management System.exe
+C:\Users\Admin\Desktop\Centralogic\Inventory Management System\Inventory Management System\bin\Debug\net7.0\Inventory Management System.deps.json
+C:\Users\Admin\Desktop\Centralogic\Inventory Management System\Inventory Management System\bin\Debug\net7.0\Inventory Management System.runtimeconfig.json
+C:\Users\Admin\Desktop\Centralogic\Inventory Management System\Inventory Management System\bin\Debug\net7.0\Inventory Management System.dll
+C:\Users\Admin\Desktop\Centralogic\Inventory Management System\Inventory Management System\bin\Debug\net7.0\Inventory Management System.pdb
+C:\Users\Admin\Desktop\Centralogic\Inventory Management System\Inventory Management System\obj\Debug\net7.0\Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Centralogic\Inventory Management System\Inventory Management System\obj\Debug\net7.0\Inventory Management System.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Centralogic\Inventory Management System\Inventory Management System\obj\Debug\net7.0\Inventory Management System.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Centralogic\Inventory Management System\Inventory Management System\obj\Debug\net7.0\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Centralogic\Inventory Management System\Inventory Management System\obj\Debug\net7.0\Inventory Management System.dll
+C:\Users\Admin\Desktop\Centralogic\Inventory Management System\Inventory Management System\obj\Debug\net7.0\refint\Inventory Management System.dll
+C:\Users\Admin\Desktop\Centralogic\Inventory Management System\Inventory Management System\obj\Debug\net7.0\Inventory Management System.pdb
+C:\Users\Admin\Desktop\Centralogic\Inventory Management System\Inventory Management System\obj\Debug\net7.0\Inventory Management System.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Centralogic\Inventory Management System\Inventory Management System\obj\Debug\net7.0\ref\Inventory Management System.dll
