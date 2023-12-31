@@ -1,0 +1,63 @@
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\msvcp140.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\vcruntime140.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\vcruntime140_1.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Task Management System.exe
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Task Management System.deps.json
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Task Management System.runtimeconfig.json
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Task Management System.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Task Management System.pdb
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\Task Management System.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\Task Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\Task Management System.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\Task Management System.AssemblyInfo.cs
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\Task Management System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\Task Management System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\Task Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\Task Management System.sourcelink.json
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\staticwebassets\msbuild.Task Management System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.Task Management System.props
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Task Management System.props
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Task Management System.props
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\scopedcss\bundle\Task Management System.styles.css
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\Task Management System.csproj.CopyComplete
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\Task Management System.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\refint\Task Management System.dll
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\Task Management System.pdb
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\Task Management System.genruntimeconfig.cache
+C:\Users\Admin\Desktop\centralogic\Task Management System\Task Management System\obj\Debug\net8.0\ref\Task Management System.dll
